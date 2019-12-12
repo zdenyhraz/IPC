@@ -18,8 +18,8 @@ A) .exe file arguments:
 
 B) config file parameters:
 Not all parameters need to be specified - all
-parameters have default values. Order of var-
-iables in the config file does not matter.
+parameters have default values. Order of variables 
+in the config file does not matter.
 For more elaborate IPC parameters description,
 read the original IPC paper.
 
