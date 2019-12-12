@@ -1,5 +1,4 @@
-# ITERATIVE PHASE CORRELATION ALGORITHM FOR HIGH PRECISION SUBPIXEL IMAGE REGISTRATION
-
+# Iterative phase correlation algorithm for high precision subpixel image registration
 Zdenek Hrazdira, Brno University of Technology
 2019
 
