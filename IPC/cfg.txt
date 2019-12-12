@@ -1,0 +1,10 @@
+L2size = 11
+L1ratio = 0.35
+UC = 31
+stdevL = 1.2
+stdevH = 20
+interpolate = true
+window = true
+bandpass = true
+subpixel = true
+iterate = true
