@@ -38,7 +38,7 @@ B1) NUMERICAL PARAMETERS
 5) stdevH - band pass high passing coefficient
 
 
-B2) LOGICAL PARAMETERS
+B2) BOOLEAN PARAMETERS
 
 6) interpolate - use bilinear interpolation
 
