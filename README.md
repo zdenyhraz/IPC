@@ -9,6 +9,8 @@ Druckmuller & Shadia Habbal. Example IPC calculation
 with images "input1.png" and "input2.png" can be run
 by simply executing .exe file.
 
+![alt text](https://raw.githubusercontent.com/zdenyhraz/IPC/master/demo.PNG "demo picture")
+
 A) .exe file arguments:
 	1) path to input image 1
 	2) path to input image 2
