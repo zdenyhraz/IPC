@@ -61,4 +61,5 @@ dynamic library file in the directory the .exe
 is executed from, or the path to the .dll needs
 to be added to the system environment variable
 PATH, to run it from anywhere. The executable
-was made with C++ OpenCV and STL libraries.
+was made with C++ OpenCV and STL libraries. 
+The .dll can be found in the .rar or .7z archives.
