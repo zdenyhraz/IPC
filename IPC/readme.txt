@@ -3,7 +3,7 @@
 ###########################################
 
 Zdenek Hrazdira, Brno University of Technology
-May 2019
+2019
 
 The IPC.exe file computes the geometric misalignment 
 (rotation, scale, X/Y shift) between two input images, 
