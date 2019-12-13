@@ -29,7 +29,7 @@ B1) NUMERICAL PARAMETERS
 1) L2size - size of the L2 region
 
 2) L1ratio - ratio of L1 region
-	(L1size=L1ratio*L2size*UC)
+	(L1size=L1ratio * L2size * UC)
 
 3) UC - L2 region upsampling coefficient
 
