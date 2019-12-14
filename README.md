@@ -9,6 +9,10 @@ Druckmuller & Shadia Habbal. Example IPC calculation
 with images "input1.png" and "input2.png" can be run
 by simply executing .exe file.
 
+The IPC method of image alignment is an integral part of a workflow, 
+which is routinely used for the creation of SDO AIA PM-NAFE processed videos. 
+The archive of these videos can be found at \url{http://www.zam.fme.vutbr.cz/~druck/Sdo/Pm-nafe/0-info.htm}.
+
 ![alt text](https://raw.githubusercontent.com/zdenyhraz/IPC/master/demo.PNG "demo picture")
 
 A) .exe file arguments:
