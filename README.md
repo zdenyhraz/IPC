@@ -11,9 +11,7 @@ by simply executing .exe file.
 
 The IPC method of image alignment is an integral part of a workflow, 
 which is routinely used for the creation of SDO AIA PM-NAFE processed videos. 
-The archive of these videos can be found at 
-
-http://www.zam.fme.vutbr.cz/~druck/Sdo/Pm-nafe/0-info.htm.
+The archive of these videos can be found at http://www.zam.fme.vutbr.cz/~druck/Sdo/Pm-nafe/0-info.htm.
 
 ![alt text](https://raw.githubusercontent.com/zdenyhraz/IPC/master/demo.PNG "demo picture")
 
