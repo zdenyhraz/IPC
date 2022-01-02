@@ -2,6 +2,13 @@
 Zdenek Hrazdira, Brno University of Technology
 2019
 
+<p align="left">
+<a href="https://github.com/zdenyhraz/shenanigans/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zdenyhraz/shenanigans"></a>
+<a href="https://github.com/zdenyhraz/shenanigans/commits/master"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/zdenyhraz/shenanigans"></a>
+</p>
+
+## For up-to-date source code, please visit https://github.com/zdenyhraz/shenanigans
+
 The IPC.exe file computes the geometric misalignment 
 (rotation, scale, X/Y shift) between two input images, 
 as described in the IPC paper, by Zdenek Hrazdira, Miloslav
