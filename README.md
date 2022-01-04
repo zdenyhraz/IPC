@@ -25,7 +25,9 @@ which is routinely used for the creation of SDO AIA PM-NAFE processed videos.
 The archive of these videos can be found at http://www.zam.fme.vutbr.cz/~druck/Sdo/Pm-nafe/0-info.htm.
 IPC-aligned 4k video at http://www.zam.fme.vutbr.cz/~druck/Sdo/Pm-nafe/2014_01_07a/0-info.htm.
 
-![alt text](https://raw.githubusercontent.com/zdenyhraz/IPC/master/demo.PNG "demo picture")
+<p align="center">
+<img src="alignment.png" width="80%">
+</p>
 
 A) .exe file arguments:
 	1) path to input image 1
